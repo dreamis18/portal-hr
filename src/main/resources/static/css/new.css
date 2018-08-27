@@ -689,7 +689,7 @@ header {
     width: 180px;
     float: left; }
     header .logo img {
-      max-width: 140px; }
+/*      max-width: 140px;*/ }
 
 @media (max-width: 767px) {
   header .logo {
